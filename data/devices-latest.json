@@ -15355,5 +15355,34 @@
       "type": "Android Wear",
       "ver": "7.1"
     }
+  },
+  "Alberto": {
+    "cpu": {
+      "cores": 99,
+      "freq": 99,
+      "name": "Qualcomm"
+    },
+    "date": "2017-10-25T15:00:00.000Z",
+    "display": {
+      "h": 454,
+      "s": 1.4,
+      "w": 454
+    },
+    "maker": {
+      "name": "COMPAL"
+    },
+    "memory": {
+      "ram": 999,
+      "rom": 999
+    },
+    "name": {
+      "id": "Emporio Armani Alberto",
+      "long": "",
+      "product": "bluegill"
+    },
+    "os": {
+      "type": "Android Wear",
+      "ver": "7.1"
+    }
   }
 }
